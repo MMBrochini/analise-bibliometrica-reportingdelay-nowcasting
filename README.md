@@ -8,3 +8,4 @@ See the full analysis in:
 - script_2_tese
 - script_3_análise de sentimento_científico
 - script_4_bibliom_metodos
+- dados_classificados
